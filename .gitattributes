@@ -1,0 +1,2 @@
+Data/ES_Trades.csv filter=lfs diff=lfs merge=lfs -text
+Data/ES_Quotes.csv filter=lfs diff=lfs merge=lfs -text
