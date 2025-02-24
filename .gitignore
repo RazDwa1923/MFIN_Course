@@ -1,2 +1,3 @@
-config.envData/ES_Trades.csv
+config.env
+Data/ES_Trades.csv
 Data/ES_Quotes.csv
